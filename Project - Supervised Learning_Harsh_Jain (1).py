@@ -123,7 +123,6 @@ sns.pairplot(df.iloc[:,1:], hue='Personal Loan')
 
 # In dataset it is visible that  "Age" feature is almost normally distributed where majority of customers are between age 30 to 60 years.And we can also see median is equal to mean.
 
-# In[12]:
 
 
 plt.figure(figsize=(16,4))
