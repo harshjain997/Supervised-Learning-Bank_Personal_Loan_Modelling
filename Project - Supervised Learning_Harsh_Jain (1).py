@@ -595,20 +595,5 @@ plt.show()
 # Here I used 4 classification models to study.
 # From the accuracy scores , it seems like "KNN" algorithm have the highest accuracy and stability.
 
-# In[1]:
-
-
-conda install -c conda-forge jupyterthemes
-
-
-# In[3]:
-
-
-get_ipython().system('jt -t chesterish')
-
-
-# In[ ]:
-
-
 
 
